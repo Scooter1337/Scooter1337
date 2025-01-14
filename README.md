@@ -1,5 +1,6 @@
 ## L.A. Verheul
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=scooter1337&show_icons=true&theme=dark"
@@ -11,7 +12,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=scooter1337&show_icons=true" />
 </picture>
-
+-->
 
 <picture>
   <source
